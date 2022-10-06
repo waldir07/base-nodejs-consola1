@@ -1,2 +1,8 @@
 node_modules
 salida/*.txt
+app.js
+app2.js
+app3.js
+app4.js
+async-await.js
+promesas.js
